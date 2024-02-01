@@ -24,3 +24,4 @@ git init - инициализация гита
 git status - актуальный статус
 ## Lession 2
 git branch - выводит ветки
+branch - ветка
